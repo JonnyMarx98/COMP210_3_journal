@@ -13,7 +13,19 @@ while the xbox one controller was more familiar. Another interesting finding in 
 that the participants didn't need to know beforehand how to use the HMD, this shows that they 
 are very intuative.
 
-## Exploitation of Heuristics for Virtual Environments
+## Exploitation of heuristics for virtual environments
+
+
+## Investigating the balance between virtuality and reality in mobile mixed reality UI design: user perception of an augmented city
+
+
+## Homuncular Flexibility in Virtual Reality. 
+
+
+## (Re-)examination of multimodal augmented reality
+
+
+## Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology
 
 
 
