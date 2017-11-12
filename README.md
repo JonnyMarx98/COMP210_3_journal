@@ -19,4 +19,17 @@ Augumented reality (AR), a real environment augumented with virtual elements to 
 ## Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology [6]
 This paper presents a list of ethical concerns that could arrise from using or researching virtual reality. The paper presents ethical advice for anyone researching VR in order to decrease the risks and raise awareness of using VR safely to the general public. There are many ethical concerns that I believe are very useful to understand if you are going to use virtual reality. An example of this is the neglect of others and the physical environment; the more time a user spends in a virtual environment the higher the risk of neglecting their own bodies and real physical environment. The authors compares it to how today many people feel that engaging in social interactions via Facebook is more important than interacting in real life. I find this concern very interesting and believe that anyone who is going to use VR should be aware of this risk; I feel that if the user is aware that they are at risk of neglecting their own body and physical environment that they will be less likely to do so. 
 
+## Conclusion
+
+
+## References
+[1 - Hardware Interfaces for VR Applications: Evaluation on Prototypes](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=7363283)]
+[2 - Exploitation of heuristics for virtual environments](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2399065)
+[3 - Investigating the balance between virtuality and reality in mobile mixed reality UI design: user perception of an augmented city](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2641201)
+[4 - Homuncular Flexibility in Virtual Reality](http://web.b.ebscohost.com.ezproxy.falmouth.ac.uk/ehost/detail/detail?vid=0&sid=53c4d7a0-70c2-4309-b184-4b79be2d16db%40sessionmgr104&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=102884181&db=ufh)
+[5 - (Re-)examination of multimodal augmented reality](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001961)
+[6 - Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology](http://journal.frontiersin.org/article/10.3389/frobt.2016.00003/full)
+
+
+
 
